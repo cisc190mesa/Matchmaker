@@ -1,9 +1,10 @@
-
+import java.util.Date;
 /**
  * Description 
  *
  * @author Keith Gross
  * @version 0.0.1
+ * @cisc190mesa/cisc190
  */
 public class Description
 {
@@ -18,6 +19,8 @@ public class Description
     private Gender gender;
     
     private Person person;
+    
+    private Date birthDate;
 
     /**
      * Constructor for objects of class Description
